@@ -1,0 +1,525 @@
+2026-07-04T09:55:07.095Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T14:23:07.349Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T14:30:07.352Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T14:38:07.331Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T15:10:07.431Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T15:18:07.457Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T15:28:07.431Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T15:45:07.393Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T15:55:07.448Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T15:59:07.446Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T16:02:07.462Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T16:06:07.465Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T16:11:07.401Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T16:17:07.405Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T16:24:07.439Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T17:10:07.447Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T17:43:07.547Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T18:30:07.678Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T19:31:07.703Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T20:42:07.814Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T21:15:07.878Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T21:44:07.865Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T22:19:07.959Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T23:50:08.188Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-04T23:54:08.232Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T01:17:08.310Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T01:26:08.292Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T02:12:08.335Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T03:15:08.485Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T03:19:08.481Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T03:23:08.435Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T03:44:08.366Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T04:56:08.577Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T06:04:08.725Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T06:23:08.653Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T07:11:08.740Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T07:22:08.731Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T07:27:08.730Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T08:12:08.947Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T10:40:09.320Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T11:27:09.375Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T11:44:09.311Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T12:28:09.203Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T13:58:09.318Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T14:03:09.308Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T14:16:09.301Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T14:40:09.398Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T14:55:09.427Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T16:20:09.728Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T16:59:09.808Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T17:48:09.911Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T18:01:09.884Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T18:09:09.849Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T18:13:09.848Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T18:20:09.863Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T18:39:09.856Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T19:43:10.059Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T20:01:10.027Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T20:23:10.184Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T20:28:10.195Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T22:29:10.297Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-05T23:16:10.452Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T00:04:10.447Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T00:17:10.427Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T00:25:10.447Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T01:18:10.461Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T01:46:10.402Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T02:21:10.522Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T02:36:10.587Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T02:46:10.519Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T02:54:10.421Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T03:13:10.440Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T03:20:10.457Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T03:28:20.800Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
+2026-07-06T03:41:20.825Z ERROR Failed to render usage ring 
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:16416:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
+    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
+    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)

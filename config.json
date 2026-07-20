@@ -1,0 +1,22 @@
+{
+  "daily_budget_percent": 8,
+  "ring_metric": "cycle",
+  "thresholds": {
+    "green_max": 50,
+    "yellow_max": 80
+  },
+  "labels": {
+    "low": "Low",
+    "ok": "OK",
+    "heavy": "Heavy",
+    "hot": "Hot"
+  },
+  "context_paths": [
+    ".cursor/rules",
+    "AGENTS.md",
+    ".cursorrules"
+  ],
+  "context_inject_file": "context/inject-prompt.txt",
+  "icon_output": "icons/cursor-ring.svg",
+  "state_output": "state/usage-state.json"
+}

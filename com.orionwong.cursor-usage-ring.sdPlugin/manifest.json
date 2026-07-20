@@ -1,0 +1,41 @@
+{
+	"Name": "Cursor Usage Ring",
+	"Version": "0.1.0.0",
+	"Author": "Orion Wong",
+	"Actions": [
+		{
+			"Name": "AI Usage Ring",
+			"UUID": "com.orionwong.cursor-usage-ring.usage",
+			"Icon": "imgs/actions/usage-ring/icon",
+			"Tooltip": "Apple Watch-style Cursor usage ring. Press to refresh. Long-press opens dashboard (configure in Multi Action).",
+			"PropertyInspectorPath": "ui/usage-ring.html",
+			"Controllers": ["Keypad"],
+			"States": [
+				{
+					"Image": "imgs/actions/usage-ring/blank",
+					"ShowTitle": false
+				}
+			]
+		}
+	],
+	"Category": "Cursor Usage Ring",
+	"CategoryIcon": "imgs/plugin/category-icon",
+	"CodePath": "bin/plugin.js",
+	"Description": "Live Apple Watch-style activity rings for Cursor AI usage",
+	"Icon": "imgs/plugin/marketplace",
+	"SDKVersion": 3,
+	"Software": {
+		"MinimumVersion": "7.1"
+	},
+	"OS": [
+		{
+			"Platform": "mac",
+			"MinimumVersion": "12"
+		}
+	],
+	"Nodejs": {
+		"Version": "24",
+		"Debug": "enabled"
+	},
+	"UUID": "com.orionwong.cursor-usage-ring"
+}

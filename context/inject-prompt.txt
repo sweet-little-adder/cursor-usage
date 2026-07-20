@@ -1,0 +1,9 @@
+Load strong project context before continuing:
+
+1. Read `.cursor/rules/` (all rules) and `AGENTS.md` if present.
+2. Respect existing architecture, naming, and test conventions.
+3. Minimize scope — only change what this task requires.
+4. Prefer existing utilities over new abstractions.
+5. Run relevant tests or lint for touched files before finishing.
+
+Task:

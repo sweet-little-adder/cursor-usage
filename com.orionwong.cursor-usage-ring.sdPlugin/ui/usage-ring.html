@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>AI Usage Ring</title>
+	<script src="https://sdpi-components.dev/releases/v4/sdpi-components.js"></script>
+</head>
+<body>
+	<sdpi-item label="Project root">
+		<sdpi-textfield setting="projectRoot" placeholder="/Users/you/project"></sdpi-textfield>
+	</sdpi-item>
+
+	<sdpi-item label="Ring metric">
+		<sdpi-select setting="ringMetric" default="cycle">
+			<option value="cycle">Billing cycle %</option>
+			<option value="daily_pace">Daily pace %/day</option>
+		</sdpi-select>
+	</sdpi-item>
+
+	<sdpi-item label="Refresh (sec)">
+		<sdpi-textfield setting="refreshSeconds" type="number" default="60" placeholder="60"></sdpi-textfield>
+	</sdpi-item>
+
+	<sdpi-item label="Ring color">
+		<sdpi-color setting="ringColor" default="#5AC8FA"></sdpi-color>
+	</sdpi-item>
+
+	<sdpi-item label="Green ≤">
+		<sdpi-textfield setting="greenMax" type="number" default="50" placeholder="50"></sdpi-textfield>
+	</sdpi-item>
+
+	<sdpi-item label="Yellow ≤">
+		<sdpi-textfield setting="yellowMax" type="number" default="80" placeholder="80"></sdpi-textfield>
+	</sdpi-item>
+</body>
+</html>
