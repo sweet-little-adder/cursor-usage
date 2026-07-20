@@ -7,3 +7,7 @@ icons/
 com.orionwong.cursor-usage-ring.sdPlugin/bin/
 com.orionwong.cursor-usage-ring.sdPlugin/node_modules/
 com.orionwong.cursor-usage-ring.sdPlugin/package.json
+
+# Stream Deck plugin logs
+*.sdPlugin/logs/
+logs/

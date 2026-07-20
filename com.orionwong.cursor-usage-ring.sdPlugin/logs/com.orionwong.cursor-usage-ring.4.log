@@ -1,7 +1,0 @@
-2026-07-03T08:32:53.136Z ERROR Failed to render usage ring 
-TypeError: fetch failed
-    at node:internal/deps/undici/undici:16416:13
-    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
-    at async file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89033
-    at async Ls (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:89001)
-    at async ps.render (file:///Users/orionwong/Developer/cursor-usage/com.orionwong.cursor-usage-ring.sdPlugin/bin/plugin.js:1:92828)
